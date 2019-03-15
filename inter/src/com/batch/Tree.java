@@ -2,7 +2,7 @@ package com.batch;
 
 import java.util.Set;
 
-import com.batch.TestClass.Node;
+import com.batch.TestClass1.Node;
 
 public class Tree {
 	Node root;

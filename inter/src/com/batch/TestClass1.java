@@ -13,7 +13,7 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
 
-class TestClass {
+class TestClass1 {
 
     public static void main(String args[] ) throws Exception {
         /* Sample code to perform I/O:
